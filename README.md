@@ -49,13 +49,13 @@
 
 <p align="center">
   <a href="https://github.com/mrmarino1">
-    <img src="[https://github-readme-stats.vercel.app/api?username=mrmarino1&show_icons=true&theme=tokyonight](https://cdn.prod.website-files.com/63be620d63863b897c02c28a/6477657755c46a6f4965855f_github_large.png)">
+        <img src="https://imgur.com/gallery/github-logo-MWVYCAn#dy2uNAS">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mrmarino1">
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mrmarino1&layout=compact&theme=tokyonight](https://cdn.prod.website-files.com/63be620d63863b897c02c28a/6477657755c46a6f4965855f_github_large.png)">
+    <img src="https://imgur.com/gallery/github-logo-MWVYCAn#dy2uNAS">
   </a>
 </p>
 
